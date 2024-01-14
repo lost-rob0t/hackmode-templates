@@ -1,0 +1,6 @@
+#+title: Readme
+
+* Hackmode templates
+These are template files to be used with https://github.com/lost-rob0t/emacs-hackmode
+
+Git clone this to a dir, and set ~hackmode-templates~ to the path dir holding the templates.
